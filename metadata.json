@@ -1,0 +1,8 @@
+{
+  "name": "ToonTown Roleplay: Cartoon Adventure Simulator",
+  "description": "A vibrant cartoon simulation and roleplay story game for kids featuring Doraemon, Shinchan, and Boss Baby with interactive gadgets, episodic quests, and fun mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
